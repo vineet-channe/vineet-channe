@@ -3,11 +3,15 @@ Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas
 
 ## 🎶 Currently Grooving To:
 <!-- Spotify Embed: Bob Marley - "One Love" -->
+## 🎶 Currently Grooving To:
 <p align="center">
-  <a href="https://open.spotify.com/track/6K43LwCfh5U7ttkUORFcQ7" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" width="350" /></a>
+  <a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ" target="_blank">
+    <img src="[https://i.scdn.co/image/ab67616d0000b273930e7a7e022e58b5c07b2bb9](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ)" width="350" />
+  </a>
   <br>
-  <i>Bob Marley – "One Love"</i>
+  <i>Rupert Holmes – "Escape (The Piña Colada Song)"</i>
 </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineet.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-channe-aa2213229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineetchanneproffesional@gmail.com) 
