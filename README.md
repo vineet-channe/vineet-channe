@@ -2,11 +2,9 @@
 Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas into real, working code, from lightning-fast web apps (React, FastAPI, AWS et al) to super-smart AI pipelines (PyTorch, OpenCV, MediaPipe) used in everything from national-scale biometrics to hackathon chaos. Always up for building cool stuff, learning the newest tech, cutting data processing times for fun, and chatting about life at the intersection of software, science, and a lot of caffeinated late nights. Now trying to impart what I have learned to open-source, let’s build, break, and remix things together!
 
 ## 🎶 Currently Grooving To:
-<!-- Spotify Embed: Bob Marley - "One Love" -->
-## 🎶 Currently Grooving To:
 <p align="center">
   <a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ" target="_blank">
-    <img src="[https://i.scdn.co/image/ab67616d0000b273930e7a7e022e58b5c07b2bb9](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ)" width="350" />
+    <img src="(https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ)" width="350" />
   </a>
   <br>
   <i>Rupert Holmes – "Escape (The Piña Colada Song)"</i>
