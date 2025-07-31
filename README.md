@@ -4,7 +4,7 @@ Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas
 ## 🎶 Currently Grooving To:
 <p align="center">
   <a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ" target="_blank">
-    <img src="(https://i.scdn.co/image/ab67616d00001e02af7afb5c49afd3133fa2a6c9)" width="350" />
+    <img src="https://i.scdn.co/image/ab67616d00001e02af7afb5c49afd3133fa2a6c9" width="350" />
   </a>
   <br>
   <i>Rupert Holmes – "Escape (The Piña Colada Song)"</i>
