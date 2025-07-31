@@ -1,6 +1,13 @@
 # 💫 About Me:
 Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas into real, working code, from lightning-fast web apps (React, FastAPI, AWS et al) to super-smart AI pipelines (PyTorch, OpenCV, MediaPipe) used in everything from national-scale biometrics to hackathon chaos. Always up for building cool stuff, learning the newest tech, cutting data processing times for fun, and chatting about life at the intersection of software, science, and a lot of caffeinated late nights. Now trying to impart what I have learned to open-source, let’s build, break, and remix things together!
 
+## 🎶 Currently Grooving To:
+<!-- Spotify Embed: Bob Marley - "One Love" -->
+<p align="center">
+  <a href="https://open.spotify.com/track/6K43LwCfh5U7ttkUORFcQ7" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" width="350" /></a>
+  <br>
+  <i>Bob Marley – "One Love"</i>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineet.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-channe-aa2213229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineetchanneproffesional@gmail.com) 
@@ -15,3 +22,8 @@ Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## 😂 Just for Fun
+<p align="center">
+  <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="370" alt="Meme of the Day">
+  <br><i>[sometimes you just need a meme while debugging…]</i>
+</p>
