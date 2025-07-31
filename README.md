@@ -1,7 +1,7 @@
-# 💫 About Me:
+# Hey hey hey ! 🙋‍♂️:
 Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas into real, working code, from lightning-fast web apps (React, FastAPI, AWS et al) to super-smart AI pipelines (PyTorch, OpenCV, MediaPipe) used in everything from national-scale biometrics to hackathon chaos. Always up for building cool stuff, learning the newest tech, cutting data processing times for fun, and chatting about life at the intersection of software, science, and a lot of caffeinated late nights. Now trying to impart what I have learned to open-source, let’s build, break, and remix things together!
 
-## 🎶 Currently Grooving To:
+## i love my music 🎸 (current fav):
 <p align="center">
   <a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d00001e02af7afb5c49afd3133fa2a6c9" width="250" />
@@ -22,7 +22,7 @@ Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-channe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## WE NEED THE MEMES, TRUST ME !
+## mandatory memesss !! 🗿
 <p align="center">
   <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="370" alt="Meme of the Day">
   <br><i>[sometimes you just need a meme while debugging…]</i>
