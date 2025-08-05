@@ -1,7 +1,7 @@
 # Hey hey hey ! 🙋‍♂️:
 Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas into real, working code, from lightning-fast web apps (React, FastAPI, AWS et al) to super-smart AI pipelines (PyTorch, OpenCV, MediaPipe) used in everything from national-scale biometrics to hackathon chaos. Always up for building cool stuff, learning the newest tech, cutting data processing times for fun, and chatting about life at the intersection of software, science, and a lot of caffeinated late nights. Now trying to impart what I have learned to open-source, let’s build, break, and remix things together!
 
-## i love my music 🎸 (current fav):
+## i love my music 🎸 (current on-loop):
 <p align="center">
   <a href="https://open.spotify.com/track/2imB1AhOL2INWUv2T9Ff6A?si=09b8d745747f4909" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d00001e024849278ce9876ebea7353d66" width="250" />
