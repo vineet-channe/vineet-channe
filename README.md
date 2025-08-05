@@ -3,11 +3,11 @@ Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas
 
 ## i love my music 🎸 (current fav):
 <p align="center">
-  <a href="https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d00001e02af7afb5c49afd3133fa2a6c9" width="250" />
+  <a href="https://open.spotify.com/track/2imB1AhOL2INWUv2T9Ff6A?si=09b8d745747f4909" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d00001e024849278ce9876ebea7353d66" width="250" />
   </a>
   <br>
-  <i>Rupert Holmes – "Escape (The Piña Colada Song)"</i>
+  <i>Bleachers– "Like A River Runs"</i>
 </p>
 
 
