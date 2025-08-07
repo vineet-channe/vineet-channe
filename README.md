@@ -3,7 +3,7 @@ Hey there! I’m a full-stack dev and AI enthusiast who loves turning wild ideas
 
 ## i love my music 🎸 (current on-loop):
 <p align="center">
-  <a href="https://open.spotify.com/track/2imB1AhOL2INWUv2T9Ff6A?si=09b8d745747f4909" target="_blank">
+  <a href="https://www.youtube.com/watch?v=JWpWfL2RlgI&list=RDJWpWfL2RlgI&start_radio=1" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d00001e024849278ce9876ebea7353d66" width="250" />
   </a>
   <br>
